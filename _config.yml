@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nicole"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Sichuan Univercity"
+  location         : "China Chengdu"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "http://github.com/CyannSyin"
   google_plus      :
   keybase          :
   instagram        :
