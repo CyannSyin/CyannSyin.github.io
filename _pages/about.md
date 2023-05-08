@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello, I'm Nicole.
+Hello, I'm Nicole.      
 I'm a undergraduate student from [SiChuan University](https://www.scu.edu.cn/). I was a medical student, and now I am an engineering student.
 
 
