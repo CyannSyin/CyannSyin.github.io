@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Bachelor of Software Engineering, Sichuan University, 2024
-* Bachelor of Mechanical Engineering， Sichuan Universit, 2024
+* Bachelor of Engineering Mechanics， Sichuan University, 2024
   
 Skills
 ======
