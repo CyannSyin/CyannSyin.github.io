@@ -10,7 +10,7 @@ redirect_from:
 
 
 Hello, I'm Nicole.      
-I'm a undergraduate student from [SiChuan University](https://www.scu.edu.cn/). I was a medical student, and now I am an engineering student.
+I'm a undergraduate student from [Sichuan University](https://www.scu.edu.cn/). I was a medical student, and now I am an engineering student.
 
 You can find my CV here: [Nicole's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
