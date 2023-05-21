@@ -14,7 +14,7 @@ Education
 * 2021 - 2024, Mechanics & Software Engineering(Interdisciplinary Program), Sichuan university
 * 2019 - 2021, Preventive Medicine, Sichuan university
 
-Programed
+Programe
 ======
 * **Research on fatigue damage and life prediction of high entropy alloys under high temperature environment**
   * Improved high entropy alloys by heat treatment and fatigue testing 
