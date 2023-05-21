@@ -14,7 +14,7 @@ Education
 * 2021 - 2024, Mechanics & Software Engineering(Interdisciplinary Program), Sichuan university
 * 2019 - 2021, Preventive Medicine, Sichuan university
 
-Programe
+Programs
 ======
 * **Research on fatigue damage and life prediction of high entropy alloys under high temperature environment**
   * Improved high entropy alloys by heat treatment and fatigue testing 
@@ -27,6 +27,12 @@ Programe
 	* Aimed to create a more holistic and human-centered environment 
 	* Applied experience and methodology to conceptualize and design a living area for chronically ill and socially marginalized people 
 	* Developed a model of an ideal healing street, using a specific street as an example
+
+Location
+======
+* 
+* 2020 - 2023 Deputy Director, Student TV Station, Sichuan University
+* 2020 - 2023 Distribution Director, Yishixiongdi Cultural Media Co. Ltd
 	
 Skills
 ======
