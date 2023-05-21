@@ -38,7 +38,12 @@ Programs
 Work Experience
 ======
 * 2020 - 2023 Distribution Director, Yishixiongdi Cultural Media Co. Ltd(a startup)
-  * 
+  * Participated in the strategic discussion and formulation of the company's publicity and promotion projects
+  * ...
+
+Awards and Professional Qualifications
+======
+* ...
 
 Skills
 ======
