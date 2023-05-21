@@ -31,6 +31,9 @@ Programs
   * Aimed to create a more holistic and human-centered environment 
   * Applied experience and methodology to conceptualize and design a living area for chronically ill and socially marginalized people 
   * Developed a model of an ideal healing street, using a specific street as an example
+* **Development of finite element method computing software**
+  * Developed based on C language
+  * Focused on certain situations
 
 Work Experience
 ======
