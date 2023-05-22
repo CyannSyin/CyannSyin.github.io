@@ -54,7 +54,7 @@ Skills
   * Java
   * Python
   
-#Talks
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
