@@ -17,6 +17,7 @@ Education
 Location
 ======
 * 2020 - 2023 Deputy Director, Student TV Station, Sichuan University
+* 2020 - 2021 
 
 Programs
 ======
@@ -35,6 +36,11 @@ Programs
   * Developed based on C language
   * Focused on certain situations
 
+Publications
+======
+* Software Copyright：
+* Software Copyright：
+
 Work Experience
 ======
 * 2020 - 2023 Distribution Director, Yishixiongdi Cultural Media Co. Ltd(a startup)
@@ -48,6 +54,7 @@ Awards and Professional Qualifications
 Skills
 ======
 * English Language Proficiency
+  * IELTS
   * CET 6
 * Programming Language
   * C/C++
